@@ -1,6 +1,6 @@
-# Image Classification MNIST
+# Anomaly Detection
 
-This is an anomaly detection app built using **TensorFlow 2**, **Django 3**, **Django REST Framework 3**, **React 17**, and **Material UI 5**. The app uses a machine learning model built in TensorFlow and trained on the MNIST dataset to recognize handwritten digits.
+This is an anomaly detection app built using **TensorFlow 2**, **Django 3**, **Django REST Framework 3**, **React 18**, and **Material UI 5**. The app uses a machine learning model built in TensorFlow and trained on the MNIST dataset to recognize handwritten digits.
 
 
 ## Table of Contents 

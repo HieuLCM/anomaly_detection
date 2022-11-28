@@ -4,4 +4,4 @@ db.sqlite3
 ipynb_checkpoints/
 node_modules/
 venv/
-backend/media/images
+backend/media/image
